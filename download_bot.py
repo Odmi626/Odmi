@@ -5,7 +5,7 @@ from aiogram.types import FSInputFile
 import yt_dlp
 import os
 
-bot = Bot(token="7604521245:AAFzwII4hXoSYH6xqZw2nFcZJTJcJj79UgQ")
+bot = Bot(token="......")
 dp = Dispatcher()
 
 @dp.message(Command("start"))
