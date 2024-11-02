@@ -6,7 +6,7 @@ import asyncio
 import requests
 
 # Замените 'YOUR_BOT_TOKEN' на токен вашего бота
-API_TOKEN = '7854563455:AAF-qIJ9Kgt6LLCe03YcAGaPe1YppZw7Ekw'
+API_TOKEN = '.......'
 
 logging.basicConfig(level=logging.INFO)
 
